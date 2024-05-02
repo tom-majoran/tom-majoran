@@ -1,0 +1,4 @@
+- 👋 Hi, Ich bin Tom
+- 👀 Ich interessiere mich für Computer und Technik
+- 🌱 Ich lerne gerade Verschlüsselungen
+- 📫 So erreichen Sie mich: E-Mail: 
